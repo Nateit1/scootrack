@@ -16,7 +16,10 @@ ScooTrack manages a fleet of scooters for a rental shop. It handles the full ren
 
 ## 📸 Demo
 
-![ScooTrack Demo](screenshots/demo.jpg)
+<img width="840" height="714" alt="demo" src="https://github.com/user-attachments/assets/49392578-be68-4ecf-967c-d46bdb584d8d" />
+
+
+
 
 ---
 
@@ -91,6 +94,4 @@ No external dependencies — uses Python standard library only.
 
 ---
 
-## 🔗 Links
 
-- 💼 [Portfolio](https://af19o4udzm.mobirisesite.com/)
